@@ -54,7 +54,7 @@ header .header-right .search #search-input {
   border: none;
   outline: none;
   font-size: 13px;
-  padding: 10px 0;
+  padding: 12px 0;
   width: 100%;
   background-color: #fff;
 }
@@ -136,7 +136,7 @@ header .menu {
 }
 
 .slider {
-  background: url("/assets/img/slider.jpg") top center / cover no-repeat;
+  background: url("./assets/img/slider.jpg") top center / cover no-repeat;
   height: 400px;
   position: relative;
 }
@@ -471,7 +471,6 @@ main .liner b {
   justify-content: center;
   align-items: center;
   padding: 6px 12px;
-  border-radius: 4px;
 }
 .form-group .fa-angle-right {
   color: #fff;
